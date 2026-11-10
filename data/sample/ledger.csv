@@ -1,0 +1,205 @@
+entry_id,date,reference,description,amount
+L00029,01/10/2026,INV-1028,Receipt Lotus Packaging,14134.0
+L00060,01/10/2026,INV-1059,Receipt Nova Auto Parts,72954.25
+L00069,01/10/2026,INV-1068,Receipt Gupta Hardware,23197.75
+L00071,01/10/2026,INV-1070,Receipt Indus Electronics,18185.0
+L00091,01/10/2026,PO-5000,Cheque 004500 Patil Transport,-2210.0
+L00097,01/10/2026,PO-5006,Payment Tata Office Mart,-36228.0
+L00114,01/10/2026,PO-5023,Payment Patil Transport,-14566.0
+L00137,01/10/2026,PO-5046,Payment Patil Transport,-3680.0
+L00179,01/10/2026,,Office rent,-45000.0
+L00063,02/10/2026,INV-1062,Receipt Indus Electronics,69462.25
+L00125,02/10/2026,PO-5034,Payment Reliance Power Services,-8093.5
+L00131,02/10/2026,PO-5040,Payment Patil Transport,-10829.0
+L00140,02/10/2026,PO-5049,Cheque 004549 Zenith Cleaning Co,-43348.0
+L00169,02/10/2026,PO-5078,Cheque 004578 Sharma Steel Supplies,-10870.5
+L00171,02/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00058,03/10/2026,INV-1057,Receipt Kaveri Agro,34043.75
+L00109,03/10/2026,PO-5018,Payment Orbit Printing Press,-38725.5
+L00168,03/10/2026,PO-5077,Payment Zenith Cleaning Co,-54283.0
+L00170,03/10/2026,PO-5079,Cheque 004579 Tata Office Mart,-11443.5
+L00203,03/10/2026,,Duplicate entry? misc expense,-7085.0
+L00204,03/10/2026,,Duplicate entry? misc expense,-6802.0
+L00001,04/10/2026,INV-1000,Receipt Bharat Steel Works,72143.5
+L00050,04/10/2026,INV-1049,Receipt Kaveri Agro,20855.75
+L00096,04/10/2026,PO-5005,Payment Zenith Cleaning Co,-54279.0
+L00105,04/10/2026,PO-5014,Payment Orbit Printing Press,-15380.5
+L00106,04/10/2026,PO-5015,Payment Zenith Cleaning Co,-54985.5
+L00155,04/10/2026,PO-5064,Payment Patil Transport,-21367.5
+L00157,04/10/2026,PO-5066,Cheque 004566 Sharma Steel Supplies,-40634.5
+L00031,05/10/2026,INV-1030,Receipt Kaveri Agro,72293.25
+L00033,05/10/2026,INV-1032,Receipt Gupta Hardware,52531.75
+L00043,05/10/2026,INV-1042,Receipt Jadhav Engineering,27340.5
+L00053,05/10/2026,INV-1052,Receipt Deccan Foods,21482.75
+L00100,05/10/2026,PO-5009,Cheque 004509 Zenith Cleaning Co,-37765.5
+L00167,05/10/2026,PO-5076,Payment Sharma Steel Supplies,-1887.5
+L00018,06/10/2026,INV-1017,Receipt Falcon Logistics,76379.5
+L00110,06/10/2026,PO-5019,Payment Zenith Cleaning Co,-13337.5
+L00112,06/10/2026,PO-5021,Payment Patil Transport,-27432.0
+L00172,06/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00187,06/10/2026,,Cash receipt Jadhav Engineering,2607.0
+L00008,07/10/2026,INV-1007,Receipt Nova Auto Parts,55810.0
+L00085,07/10/2026,INV-1084,Receipt Jadhav Engineering,43752.75
+L00149,07/10/2026,PO-5058,Payment Tata Office Mart,-12090.5
+L00188,07/10/2026,,Cash receipt Deccan Foods,7463.0
+L00023,08/10/2026,INV-1022,Receipt Gupta Hardware,55766.5
+L00024,08/10/2026,INV-1023,Receipt Bharat Steel Works,58054.0
+L00094,08/10/2026,PO-5003,Cheque 004503 Sharma Steel Supplies,-10495.0
+L00122,08/10/2026,PO-5031,Payment Patil Transport,-36727.0
+L00144,08/10/2026,PO-5053,Payment Patil Transport,-52892.0
+L00162,08/10/2026,PO-5071,Payment Tata Office Mart,-20434.0
+L00082,09/10/2026,INV-1081,Receipt Nova Auto Parts,83730.5
+L00118,09/10/2026,PO-5027,Payment Sharma Steel Supplies,-12935.0
+L00032,10/10/2026,INV-1031,Receipt Himalaya Paper Mills,88185.0
+L00034,10/10/2026,INV-1033,Receipt Bharat Steel Works,34421.25
+L00068,10/10/2026,INV-1067,Receipt Bharat Steel Works,34865.75
+L00099,10/10/2026,PO-5008,Payment Orbit Printing Press,-27031.0
+L00117,10/10/2026,PO-5026,Payment Sharma Steel Supplies,-16391.5
+L00123,10/10/2026,PO-5032,Cheque 004532 Zenith Cleaning Co,-8912.5
+L00132,10/10/2026,PO-5041,Payment Tata Office Mart,-36918.5
+L00159,10/10/2026,PO-5068,Payment Reliance Power Services,-37977.0
+L00164,10/10/2026,PO-5073,Payment Orbit Printing Press,-45763.0
+L00173,10/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00181,10/10/2026,,Electricity bill,-18736.0
+L00104,11/10/2026,PO-5013,Cheque 004513 Orbit Printing Press,-21862.0
+L00128,11/10/2026,PO-5037,Cheque 004537 Patil Transport,-52159.0
+L00154,11/10/2026,PO-5063,Payment Zenith Cleaning Co,-34005.5
+L00051,12/10/2026,INV-1050,Receipt Acme Traders,30665.0
+L00061,12/10/2026,INV-1060,Receipt Everest Pharma,4964.5
+L00077,12/10/2026,INV-1076,Receipt Falcon Logistics,41729.75
+L00087,12/10/2026,INV-1086,Receipt Chandra Textiles,33810.0
+L00088,12/10/2026,INV-1087,Receipt Acme Traders,33775.25
+L00133,12/10/2026,PO-5042,Cheque 004542 Orbit Printing Press,-37302.5
+L00182,12/10/2026,,Cash receipt Chandra Textiles,3707.0
+L00016,13/10/2026,INV-1015,Receipt Everest Pharma,88090.5
+L00039,13/10/2026,INV-1038,Receipt Chandra Textiles,26612.25
+L00066,13/10/2026,INV-1065,Receipt Lotus Packaging,77475.25
+L00108,13/10/2026,PO-5017,Payment Sharma Steel Supplies,-16962.0
+L00142,13/10/2026,PO-5051,Cheque 004551 Patil Transport,-14759.0
+L00143,13/10/2026,PO-5052,Cheque 004552 Reliance Power Services,-45392.5
+L00184,13/10/2026,,Cash receipt Himalaya Paper Mills,6393.0
+L00191,13/10/2026,,Cash receipt Kaveri Agro,7829.0
+L00192,13/10/2026,,Cash receipt Falcon Logistics,8540.0
+L00089,14/10/2026,INV-1088,Receipt Kaveri Agro,35703.5
+L00135,14/10/2026,PO-5044,Cheque 004544 Orbit Printing Press,-39055.5
+L00161,14/10/2026,PO-5070,Cheque 004570 Orbit Printing Press,-5387.0
+L00174,14/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00183,14/10/2026,,Cash receipt Kaveri Agro,8994.0
+L00056,15/10/2026,INV-1055,Receipt Lotus Packaging,84582.25
+L00115,15/10/2026,PO-5024,Payment Sharma Steel Supplies,-16889.5
+L00120,15/10/2026,PO-5029,Cheque 004529 Tata Office Mart,-19387.0
+L00151,15/10/2026,PO-5060,Payment Zenith Cleaning Co,-54790.0
+L00003,16/10/2026,INV-1002,Receipt Chandra Textiles,41048.25
+L00011,16/10/2026,INV-1010,Receipt Jadhav Engineering,4996.0
+L00027,16/10/2026,INV-1026,Receipt Lotus Packaging,14665.75
+L00037,16/10/2026,INV-1036,Receipt Gupta Hardware,38952.75
+L00052,16/10/2026,INV-1051,Receipt Kaveri Agro,8994.5
+L00081,16/10/2026,INV-1080,Receipt Deccan Foods,42813.5
+L00127,16/10/2026,PO-5036,Payment Zenith Cleaning Co,-19401.5
+L00185,16/10/2026,,Cash receipt Falcon Logistics,5957.0
+L00186,16/10/2026,,Cash receipt Jadhav Engineering,4974.0
+L00014,17/10/2026,INV-1013,Receipt Acme Traders,18734.25
+L00021,17/10/2026,INV-1020,Receipt Falcon Logistics,89894.0
+L00044,17/10/2026,INV-1043,Receipt Gupta Hardware,66897.5
+L00078,17/10/2026,INV-1077,Receipt Acme Traders,54602.75
+L00080,17/10/2026,INV-1079,Receipt Jadhav Engineering,78154.5
+L00092,17/10/2026,PO-5001,Payment Orbit Printing Press,-38573.0
+L00111,17/10/2026,PO-5020,Payment Reliance Power Services,-5822.0
+L00136,17/10/2026,PO-5045,Payment Sharma Steel Supplies,-2470.0
+L00005,18/10/2026,INV-1004,Receipt Everest Pharma,74499.5
+L00019,18/10/2026,INV-1018,Receipt Jadhav Engineering,83620.5
+L00036,18/10/2026,INV-1035,Receipt Nova Auto Parts,27507.0
+L00049,18/10/2026,INV-1048,Receipt Everest Pharma,78689.0
+L00062,18/10/2026,INV-1061,Receipt Everest Pharma,64735.0
+L00076,18/10/2026,INV-1075,Receipt Nova Auto Parts,32017.5
+L00130,18/10/2026,PO-5039,Cheque 004539 Orbit Printing Press,-17149.0
+L00138,18/10/2026,PO-5047,Payment Tata Office Mart,-17786.0
+L00141,18/10/2026,PO-5050,Payment Tata Office Mart,-8708.5
+L00148,18/10/2026,PO-5057,Payment Tata Office Mart,-24434.0
+L00175,18/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00028,19/10/2026,INV-1027,Receipt Lotus Packaging,72807.75
+L00054,19/10/2026,INV-1053,Receipt Acme Traders,51170.5
+L00055,19/10/2026,INV-1054,Receipt Kaveri Agro,18524.25
+L00070,19/10/2026,INV-1069,Receipt Everest Pharma,14791.5
+L00083,19/10/2026,INV-1082,Receipt Chandra Textiles,31117.75
+L00098,19/10/2026,PO-5007,Payment Orbit Printing Press,-40701.5
+L00116,19/10/2026,PO-5025,Payment Patil Transport,-3595.5
+L00126,19/10/2026,PO-5035,Cheque 004535 Orbit Printing Press,-52611.5
+L00139,19/10/2026,PO-5048,Cheque 004548 Reliance Power Services,-51275.0
+L00150,19/10/2026,PO-5059,Cheque 004559 Sharma Steel Supplies,-57725.0
+L00152,19/10/2026,PO-5061,Payment Tata Office Mart,-53612.0
+L00022,20/10/2026,INV-1021,Receipt Falcon Logistics,78593.5
+L00038,20/10/2026,INV-1037,Receipt Kaveri Agro,2734.5
+L00079,20/10/2026,INV-1078,Receipt Gupta Hardware,21277.0
+L00101,20/10/2026,PO-5010,Payment Sharma Steel Supplies,-33767.0
+L00107,20/10/2026,PO-5016,Cheque 004516 Reliance Power Services,-19790.0
+L00113,20/10/2026,PO-5022,Cheque 004522 Patil Transport,-14403.0
+L00121,20/10/2026,PO-5030,Payment Sharma Steel Supplies,-51438.5
+L00004,21/10/2026,INV-1003,Receipt Deccan Foods,42391.25
+L00015,21/10/2026,INV-1014,Receipt Everest Pharma,45399.5
+L00030,21/10/2026,INV-1029,Receipt Everest Pharma,55020.0
+L00064,21/10/2026,INV-1063,Receipt Kaveri Agro,30706.5
+L00160,21/10/2026,PO-5069,Cheque 004569 Tata Office Mart,-1506.0
+L00166,21/10/2026,PO-5075,Payment Orbit Printing Press,-4259.0
+L00020,22/10/2026,INV-1019,Receipt Gupta Hardware,80733.0
+L00026,22/10/2026,INV-1025,Receipt Bharat Steel Works,86778.5
+L00067,22/10/2026,INV-1066,Receipt Chandra Textiles,12857.0
+L00072,22/10/2026,INV-1071,Receipt Deccan Foods,49963.75
+L00074,22/10/2026,INV-1073,Receipt Acme Traders,20811.75
+L00084,22/10/2026,INV-1083,Receipt Lotus Packaging,17750.25
+L00103,22/10/2026,PO-5012,Payment Patil Transport,-7763.5
+L00119,22/10/2026,PO-5028,Cheque 004528 Tata Office Mart,-45893.5
+L00153,22/10/2026,PO-5062,Cheque 004562 Tata Office Mart,-31535.0
+L00176,22/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00059,23/10/2026,INV-1058,Receipt Acme Traders,48679.5
+L00086,23/10/2026,INV-1085,Receipt Lotus Packaging,81031.5
+L00102,23/10/2026,PO-5011,Payment Reliance Power Services,-29596.5
+L00046,24/10/2026,INV-1045,Receipt Deccan Foods,67056.25
+L00124,24/10/2026,PO-5033,Payment Tata Office Mart,-33214.0
+L00012,25/10/2026,INV-1011,Receipt Everest Pharma,17194.5
+L00073,25/10/2026,INV-1072,Receipt Gupta Hardware,56891.25
+L00129,25/10/2026,PO-5038,Cheque 004538 Sharma Steel Supplies,-27932.5
+L00158,25/10/2026,PO-5067,Payment Zenith Cleaning Co,-10176.0
+L00045,26/10/2026,INV-1044,Receipt Chandra Textiles,46678.75
+L00065,26/10/2026,INV-1064,Receipt Deccan Foods,69302.75
+L00145,26/10/2026,PO-5054,Payment Orbit Printing Press,-24499.0
+L00177,26/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00190,26/10/2026,,Cash receipt Nova Auto Parts,5497.0
+L00196,26/10/2026,,Cheque 004930 Orbit Printing Press,-30223.0
+L00006,27/10/2026,INV-1005,Receipt Malhar Plastics,87125.0
+L00040,27/10/2026,INV-1039,Receipt Everest Pharma,31537.0
+L00057,27/10/2026,INV-1056,Receipt Lotus Packaging,23649.0
+L00165,27/10/2026,PO-5074,Payment Tata Office Mart,-58120.0
+L00189,27/10/2026,,Cash receipt Gupta Hardware,4073.0
+L00201,27/10/2026,,Receipt Deccan Foods,32830.0
+L00202,27/10/2026,,Receipt Bharat Steel Works,44801.0
+L00007,28/10/2026,INV-1006,Receipt Nova Auto Parts,28701.5
+L00035,28/10/2026,INV-1034,Receipt Jadhav Engineering,15131.25
+L00048,28/10/2026,INV-1047,Receipt Himalaya Paper Mills,32333.75
+L00075,28/10/2026,INV-1074,Receipt Malhar Plastics,22087.25
+L00090,28/10/2026,INV-1089,Receipt Deccan Foods,29153.25
+L00134,28/10/2026,PO-5043,Cheque 004543 Orbit Printing Press,-46246.5
+L00146,28/10/2026,PO-5055,Payment Reliance Power Services,-18815.0
+L00180,28/10/2026,,Salaries Oct,-312450.0
+L00002,29/10/2026,INV-1001,Receipt Falcon Logistics,50202.0
+L00009,29/10/2026,INV-1008,Receipt Everest Pharma,57031.25
+L00025,29/10/2026,INV-1024,Receipt Bharat Steel Works,36783.0
+L00042,29/10/2026,INV-1041,Receipt Nova Auto Parts,12572.75
+L00163,29/10/2026,PO-5072,Payment Sharma Steel Supplies,-44417.5
+L00197,29/10/2026,,Cheque 004941 Tata Office Mart,-12732.0
+L00198,29/10/2026,,Cheque 004992 Patil Transport,-34196.0
+L00199,29/10/2026,,Receipt Everest Pharma,41063.0
+L00200,29/10/2026,,Receipt Indus Electronics,46813.0
+L00156,30/10/2026,PO-5065,Payment Zenith Cleaning Co,-3185.0
+L00178,30/10/2026,PO-COURIER,Payment Courier Express,-5000.0
+L00193,30/10/2026,,Cheque 004901 Tata Office Mart,-18456.0
+L00010,31/10/2026,INV-1009,Receipt Acme Traders,9904.5
+L00013,31/10/2026,INV-1012,Receipt Bharat Steel Works,19217.75
+L00017,31/10/2026,INV-1016,Receipt Gupta Hardware,67692.75
+L00041,31/10/2026,INV-1040,Receipt Bharat Steel Works,39652.0
+L00047,31/10/2026,INV-1046,Receipt Acme Traders,78986.0
+L00093,31/10/2026,PO-5002,Payment Patil Transport,-31853.5
+L00095,31/10/2026,PO-5004,Payment Zenith Cleaning Co,-19555.5
+L00147,31/10/2026,PO-5056,Payment Orbit Printing Press,-23257.0
+L00194,31/10/2026,,Cheque 004948 Tata Office Mart,-33750.0
+L00195,31/10/2026,,Cheque 004974 Sharma Steel Supplies,-9734.0
